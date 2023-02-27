@@ -5,6 +5,7 @@ function EntryApp() {
     <div className="App">
       <button>START</button>
       <button>SCORE</button>
+      <button>NEW BUTTON</button>
     </div>
   );
 }
